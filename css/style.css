@@ -1,0 +1,122 @@
+r@import url('https://fonts.googleapis.com/css?family=Lato|Raleway&display=swap');
+
+body {
+	background-color: #f2f2f2;
+	font-family: "Lato"
+	font-weight: 300;
+	font-size: 16px;
+	color: #555;
+
+	-webkit-font-smoothing: antialiased;
+	-webkit-overflow-scrolling: touch;
+	
+	
+}
+.nav-link {
+	
+h1, h2, h3 ,h4, h5, h6 {
+	font-family: "Ralway";
+	font-weight: 300;
+	color: #333 ;
+}
+p {
+	line-height: 28px;
+	margin-bottom: 25px;
+}
+.centered { 
+	text-align: center;
+	margin-bottom: 25px;
+}	
+a {
+	
+}
+a:hover, a:focus {
+	color: #7b7b7b;
+	text-decoration: none;
+	outline: 0;
+}
+hr {
+	display: block;
+	height: 1px;
+	border: 0 ;
+	border-top: 1px solid #ccc;
+	margin: 1em 0;
+	padding: 0;
+}
+ .navbar {
+	font-weight: 700;
+	font-size: 20px;
+	
+	padding-top: 10px;
+	padding-bottom: 10px;
+	margin-top: 10px;
+}
+
+}
+.navbar-dark {
+
+	background: #2d2d2d;
+	border-color: #2d2d2d;
+	color: #fff;
+}
+#headerwrap {
+	background: url(https://images.unsplash.com/photo-1533628635777-112b2239b1c7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80);
+	margin-top: -10px;
+	padding-top: 10px;
+	text-align: center;
+	background-attachment: relative;
+	background-position: center center;
+	min-height: 400px;
+	width: 100%;
+	background-size: 100%;
+
+	-webkit-background-size: cover;  
+}
+#headerwrap h1 {
+	margin-top: 25px;
+	color: brown ;
+	font-size: 50px;
+	font-weight: 300;
+	letter-spacing: px;
+	text-shadow: 1px 0 0 #4783B7;
+
+}
+#headerwrap h2 {
+	color: brown;
+	font-size: 30ps;
+	letter-spacing: 2px;
+	font-weight: 300;
+	text-transform: lowercase;
+	text-shadow: 1px 0 0 #4783B7;
+
+}
+#picwrap {
+	background: url(https://images.unsplash.com/photo-1533628635777-112b2239b1c7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80);
+	
+	
+	
+	
+	
+
+
+	
+
+}
+#picwrap h2 {
+	
+	color: brown ;
+	font-size: 50px;
+	font-weight: 300;
+	letter-spacing: px;
+	text-shadow: 1px 0 0 #4783B7;
+
+}
+#picwrap {
+	background-color:#2B3859;
+	miin-height: 500px; 
+	padding-top: -5px;
+}
+#pic {
+	width: 100%;
+}
+
